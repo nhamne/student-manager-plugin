@@ -1,0 +1,16 @@
+.sm-student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.sm-student-table th, .sm-student-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.sm-student-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
